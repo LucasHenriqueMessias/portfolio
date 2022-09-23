@@ -11,7 +11,9 @@ def homepage(): #Function -> o que será exibido na página
 def aboutMe():
     return render_template("about_me.html")
 
-
+@app.route("/music")
+def Music():
+    return render_template("music.html")
 #Initializate the site
 if __name__ == "__main__":
     app.run(debug=True)
