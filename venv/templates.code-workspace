@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "templates",
+			"path": "../../../../../../workflow/portfolio-python/templates"
+		},
+		{
+			"name": "venv",
+			"path": "../../../../../../workflow/portfolio-python/venv"
+		},
+		{
+			"name": "portfolio",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
